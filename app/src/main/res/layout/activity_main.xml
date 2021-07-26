@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#94D0CC">
+    
+    <ImageView
+        android:contentDescription="@null"
+        android:id="@+id/splash_screen"
+        android:layout_width="186dp"
+        android:layout_height="186dp"
+        android:src="@drawable/ic_speed"
+        android:layout_gravity="center"
+        android:layout_marginStart="120dp"/>
+
+
+</LinearLayout>
